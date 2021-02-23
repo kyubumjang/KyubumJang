@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=300&section=header&text=Lawlence%20Jang&fontColor=000&fontSize=90&animation=fadeIn) 
+![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=300&section=header&text=Lawlence%20Jang&fontColor=fff&fontSize=90&animation=fadeIn) 
 
 # Kyubum Jang
 - _Content Developer_
