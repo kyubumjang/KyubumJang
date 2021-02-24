@@ -28,11 +28,13 @@
 
 
 <h3 align="center"> 💬 ME </h3>
+<p align="center">
 <a href="https://velog.io/@jkb2221"><img src="https://img.shields.io/badge/Tech_Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@jkb2221"/></a>&nbsp 
 
 <a href="https://www.instagram.com/kyubum_j/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/kyubum_j/"/></a>&nbsp 
 
-<a href="https://velog.io/@jkb2221"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=https://google.com"/></a>&nbsp 
+<a href="https://google.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=https://google.com"/></a>&nbsp 
+
 
 <!--
 **KyubumJang/KyubumJang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
