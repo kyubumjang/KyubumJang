@@ -5,8 +5,8 @@
 - _Software Engineer_
 - _Concept Artist, Animation_
 
-<h3 align="center"> Tech Stack </h3>
-<p align="center"> 👋Techs I've used at least once </p>
+<h3 align="center"> 🌱 Tech Stack </h3>
+<p align="center"> Techs I've used at least once </p>
 <p align="center">
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
@@ -27,9 +27,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyubumJang&exclude_repo=2016104158,2015100592,2019103219,ARMYCODING,hub,android_makingApp&layout=compact)](https://github.com/KyubumJang)
 
 
-<h3 align="center"> ME </h3>
-<a href="https://velog.io/@jkb2221"><img src="https://img.shields.io/badge/Tech_Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@jkb2221"/></a>&nbsp 
+<h3 align="center"> 💬 ME </h3>
+<a align = "center" href="https://velog.io/@jkb2221"><img src="https://img.shields.io/badge/Tech_Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@jkb2221"/></a>&nbsp 
 
+<a align = "center" href="https://www.instagram.com/kyubum_j/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/kyubum_j/"/></a>&nbsp 
+
+<a align = "center" href="https://velog.io/@jkb2221"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=https://google.com"/></a>&nbsp 
 
 <!--
 **KyubumJang/KyubumJang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
