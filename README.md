@@ -25,18 +25,11 @@
 
 [![Kyubum Jang's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyubumJang&hide=prs&count_private=true&show_icons=true&theme=dracula)](https://github.com/kyubumJang)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyubumJang&exclude_repo=2016104158,2015100592,2019103219,ARMYCODING,hub,android_makingApp&layout=compact)](https://github.com/KyubumJang)
-
 [![kyubum Jang's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KyubumJang)](https://github.com/KyubumJang)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyubumJang&exclude_repo=2016104158,2015100592,2019103219,ARMYCODING,hub,android_makingApp&layout=compact)](https://github.com/KyubumJang)
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kyubumJang&exclude_repo=2016104158,2015100592,2019103219,ARMYCODING,hub,android_makingApp&layout=compact">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyubumJang&exclude_repo=2016104158,2015100592,2019103219,ARMYCODING,hub,android_makingApp&layout=compact" />
-</a>
 
-<a href="https://github-readme-stats.vercel.app/api/wakatime?username=KyubumJang">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=KyubumJang" />
-</a>
 
 <h3 align="center"> 💬 ME </h3>
 <p align="center">
@@ -62,5 +55,14 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KyubumJang&repo=rwrw-web)](https://github.com/KyubumJang/rwrw-web)
 
 [![kyubum Jang's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyubumJang)](https://github.com/KyubumJang)
+
+  * 나란히 두고 싶을 때
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kyubumJang&exclude_repo=2016104158,2015100592,2019103219,ARMYCODING,hub,android_makingApp&layout=compact">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyubumJang&exclude_repo=2016104158,2015100592,2019103219,ARMYCODING,hub,android_makingApp&layout=compact" />
+</a>
+
+<a href="https://github-readme-stats.vercel.app/api/wakatime?username=KyubumJang">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=KyubumJang" />
+</a>
 
 -->
