@@ -64,4 +64,6 @@ Here are some ideas to get you started:
 <a href="https://github-readme-stats.vercel.app/api/wakatime?username=KyubumJang">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=KyubumJang" />
 </a>
+
+Test Wakatime
 -->
