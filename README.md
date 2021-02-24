@@ -1,9 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=300&section=header&text=Lawrence%20Jang&fontColor=fff&fontSize=90&animation=fadeIn) 
 
 # Kyubum Jang
-- _Content Developer_
+- _Frontend Developer_
+- _VR Developer_
 - _Software Engineer_
 - _Concept Artist, Animation_
+
 
 <h3 align="center"> 🌱 Tech Stack </h3>
 <p align="center"> Techs I've used at least once </p>
