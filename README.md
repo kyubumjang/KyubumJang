@@ -25,7 +25,7 @@
 
 [![Kyubum Jang's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyubumJang&hide=prs&count_private=true&show_icons=true&theme=dracula)](https://github.com/kyubumJang)
 
-[![kyubum Jang's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KyubumJang)](https://github.com/KyubumJang)
+[![kyubum Jang's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KyubumJang)](https://github-readme-stats.vercel.app/api/wakatime?username=KyubumJang)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyubumJang&exclude_repo=2016104158,2015100592,2019103219,ARMYCODING,hub,android_makingApp&layout=compact)](https://github.com/KyubumJang)
 
@@ -64,5 +64,4 @@ Here are some ideas to get you started:
 <a href="https://github-readme-stats.vercel.app/api/wakatime?username=KyubumJang">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=KyubumJang" />
 </a>
-
 -->
