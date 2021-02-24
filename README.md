@@ -27,7 +27,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyubumJang&exclude_repo=2016104158,2015100592,2019103219,ARMYCODING,hub,android_makingApp&layout=compact)](https://github.com/KyubumJang)
 
-[![kyubum Jang's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyubumJang)](https://github.com/KyubumJang)
+[![kyubum Jang's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KyubumJang)](https://github.com/KyubumJang)
 
 <h3 align="center"> 💬 ME </h3>
 <p align="center">
