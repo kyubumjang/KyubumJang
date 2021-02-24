@@ -30,7 +30,7 @@
 
 <h3 align="center"> 💬 ME </h3>
 <p align="center">
-<a href="https://velog.io/@jkb2221"><img src="https://img.shields.io/badge/Tech_Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@jkb2221"/></a>&nbsp <a href="https://www.instagram.com/kyubum_j/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/kyubum_j/"/></a>&nbsp   <a href="https://mail.google.com/mail/u/1/#inbox?compose=VpCqJWJSsKtQFDgzpWRSrMSdSVpCLSwpvCsjFKZdrhmCHLMdPKdVdDNSSxXHhrwcLGkGQPv"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=https://mail.google.com/mail/u/1/#inbox?compose=VpCqJWJSsKtQFDgzpWRSrMSdSVpCLSwpvCsjFKZdrhmCHLMdPKdVdDNSSxXHhrwcLGkGQPv"/></a>&nbsp 
+<a href="https://velog.io/@jkb2221"><img src="https://img.shields.io/badge/Tech_Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@jkb2221"/></a>&nbsp <a href="https://www.instagram.com/kyubum_j/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/kyubum_j/"/></a>&nbsp   <a href="https://mail.google.com/mail/u/1/?tab=km#inbox"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=https://mail.google.com/mail/u/1/?tab=km#inbox"/></a>&nbsp 
 
 
 <!--
