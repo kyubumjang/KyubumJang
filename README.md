@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=300&section=header&text=Lawlence%20Jang&fontColor=fff&fontSize=90&animation=fadeIn) 
+![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=300&section=header&text=Lawrence%20Jang&fontColor=fff&fontSize=90&animation=fadeIn) 
 
 # Kyubum Jang
 - _Content Developer_
@@ -27,6 +27,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyubumJang&exclude_repo=2016104158,2015100592,2019103219,ARMYCODING,hub,android_makingApp&layout=compact)](https://github.com/KyubumJang)
 
+[![kyubum Jang's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyubumJang)](https://github.com/KyubumJang)
 
 <h3 align="center"> 💬 ME </h3>
 <p align="center">
