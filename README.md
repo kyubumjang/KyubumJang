@@ -19,10 +19,13 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKyubumJang&count_bg=%23B5C3C8&title_bg=%2398B4BE&icon=&icon_color=%23000000&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+[![Kyubum Jang's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyubumJang&hide=prs&count_private=true&show_icons=true&theme=dracula)](https://github.com/kyubumJang)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyubumJang&exclude_repo=2016104158,2015100592,2019103219,ARMYCODING,hub,android_makingApp&layout=compact)](https://github.com/KyubumJang)
+
 
 <h3 align="center"> ME </h3>
 <a href="https://velog.io/@jkb2221"><img src="https://img.shields.io/badge/Tech_Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@jkb2221"/></a>&nbsp 
@@ -41,4 +44,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KyubumJang&repo=Daehan_Tech)](https://github.com/KyubumJang/Daehan_Tech)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KyubumJang&repo=rwrw-web)](https://github.com/KyubumJang/rwrw-web)
+
+[![kyubum Jang's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyubumJang)](https://github.com/KyubumJang)
+
 -->
