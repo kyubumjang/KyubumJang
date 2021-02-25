@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=300&section=header&text=Lawrence%20Jang&fontColor=fff&fontSize=90&animation=fadeIn) 
+![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=300&section=header&text=Lawrence%20Jang&fontColor=000&fontSize=90&animation=fadeIn) 
 
 # Kyubum Jang
 - _Frontend Developer_
