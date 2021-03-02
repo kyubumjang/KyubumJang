@@ -2,8 +2,8 @@
 
 # Kyubum Jang
 - _Frontend Developer_
-- _VR Developer_
-- _Software Engineer_
+- _VR/AR Developer_
+- _Software Engineer(Computer vision, Graphics)_
 - _Concept Artist, Animation_
 
 
