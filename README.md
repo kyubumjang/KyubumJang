@@ -2,9 +2,9 @@
 
 # Kyubum Jang
 - _Frontend Developer_
-- _VR/AR Developer_
-- _Software Engineer(Computer vision, Graphics)_
-- _Concept Artist, Animation_
+- _Digital Image Processing_
+  - VR/AR Video Processing, Computer vision, Computer Graphics)
+- _Concept Artist_
 
 
 <h3 align="center"> 🌱 Tech Stack </h3>
@@ -31,14 +31,16 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyubumJang&exclude_repo=2016104158,2015100592,2019103219,ARMYCODING,hub,android_makingApp&layout=compact)](https://github.com/KyubumJang)
 
-
-
 <h3 align="center"> 💬 ME </h3>
 <p align="center">
 <a href="https://velog.io/@jkb2221"><img src="https://img.shields.io/badge/Tech_Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@jkb2221"/></a>&nbsp <a href="https://www.instagram.com/kyubum_j/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/kyubum_j/"/></a>&nbsp   <a href="https://mail.google.com/mail/u/1/?tab=km#inbox"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=https://mail.google.com/mail/u/1/?tab=km#inbox"/></a>&nbsp 
 
 
 <!--
+  - 영상 미디어는 TV, 휴대전화, 영화를 통해 소비되는 2D 영상과 HMD 등을 통한 VR/AR 영상, 멀티뷰 3D, 라이트 필드, 호로그램 등 입체 공간 영상을 포함한다. 디지털 영상 미디어의 질적/양적 팽창과 인공지능 기술의 접목으로 지능화/고도화 되며 자율주행/국방/의료/교육 등 타 산업으로 기술 및 서비스가 확산되고 있다. 영상 신호처리 분야의 중요성과 파급력은 업청나게 크다.
+  - UHD/8K/16K, VR/MR/3D, 3D Audio, Light-Field/Multi-View, Point Cloud, Hologram에 대해서 연구하고 싶고 관련하여 공부를 할 예정이다.
+  - 영상처리 수업의 김휘용 교수님의 영향을 많이 받아 DIP쪽 관련 분야에 관심을 많이 가지고 공부하고 있다. Realistic Media, Intelligent Media, Efficient Media. 3가지에 중점을 두어 공부를 한다. 실감나는 소통과 체험, 컴퓨터를 똑똑하게 만들어 자동으로 처리, 비용 효율적인 서비스를 통한 현실 가능성에 중점을 둘 것이다.
+
 **KyubumJang/KyubumJang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
