@@ -6,9 +6,8 @@
   - VR/AR Video Processing, Computer vision, Computer Graphics)
 - _Concept Artist_
 
-
-<h3 align="center"> 🌱 Tech Stack </h3>
-<p align="center"> Techs I've used at least once </p>
+# Tech Stcak
+<p align="left"> 🌱 Techs I've used at least once </p>
 <p align="center">
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
@@ -31,7 +30,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyubumJang&exclude_repo=2016104158,2015100592,2019103219,ARMYCODING,hub,android_makingApp&layout=compact)](https://github.com/KyubumJang)
 
-<h3 align="center"> 💬 ME</h3>
+<h3 align="left"> 💬 ME </h3>
 <p align="center">
 <a href="https://velog.io/@jkb2221"><img src="https://img.shields.io/badge/Tech_Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@jkb2221"/></a>&nbsp <a href="https://www.instagram.com/kyubum_j/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/kyubum_j/"/></a>&nbsp <a href=https://www.facebook.com/profile.php?id=100003462678420"><img src="https://img.shields.io/badge/Facebook-3b5998?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100003462678420/"></a>&nbsp
 
