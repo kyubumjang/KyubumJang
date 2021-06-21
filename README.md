@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=300&section=header&text=Kyubum%20Jang&fontColor=000&fontSize=90&animation=fadeIn) 
+<!-- ![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=300&section=header&text=Kyubum%20Jang&fontColor=000&fontSize=90&animation=fadeIn)  -->
 
 # Kyubum Jang
 - _Frontend Developer_
@@ -31,7 +31,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyubumJang&exclude_repo=2016104158,2015100592,2019103219,ARMYCODING,hub,android_makingApp&layout=compact)](https://github.com/KyubumJang)
 
-<h3 align="center"> 💬 ME & 📫 How to reach me: jkb2221@gmail.com</h3>
+<h3 align="center"> 💬 ME</h3>
 <p align="center">
 <a href="https://velog.io/@jkb2221"><img src="https://img.shields.io/badge/Tech_Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@jkb2221"/></a>&nbsp <a href="https://www.instagram.com/kyubum_j/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/kyubum_j/"/></a>&nbsp   <a href="https://img.shields.io/badge/Facebook-3b5998?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100003462678420"/></a>&nbsp 
 
