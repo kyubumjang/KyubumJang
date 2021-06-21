@@ -6,7 +6,7 @@
   - VR/AR Video Processing, Computer vision, Computer Graphics)
 - _Concept Artist_
 
-# Tech Stcak
+# Tech Stack
 <p align="left"> 🌱 Techs I've used at least once </p>
 <p align="center">
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
