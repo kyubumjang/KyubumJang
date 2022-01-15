@@ -5,7 +5,6 @@
 -   _Frontend Developer_
 -   _Digital Image Processing_
     -   VR/AR Video Processing, Computer vision, Computer Graphics)
--   _Concept Artist_
 
 # Tech Stack
 
