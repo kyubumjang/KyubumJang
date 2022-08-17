@@ -29,7 +29,7 @@
 
 [![kyubum Jang's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KyubumJang)](https://github-readme-stats.vercel.app/api/wakatime?username=KyubumJang)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyubumJang&exclude_repo=2016104158,2015100592,2019103219,ARMYCODING,hub,android_makingApp,SMP-Forecasting,Python_Study,Algorithm_Study&layout=compact)](https://github.com/KyubumJang)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyubumJang&exclude_repo=2016104158,2015100592,2019103219,ARMYCODING,hub,android_makingApp,SMP-Forecasting,Python_Study,Algorithm_Study,fc-js-project&layout=compact)](https://github.com/KyubumJang)
 
 <h3 align="left"> 💬 ME </h3>
 <p align="center">
