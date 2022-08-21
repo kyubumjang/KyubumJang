@@ -4,7 +4,7 @@
 
 -   _Frontend Developer_
 -   _Digital Image Processing_
-    -   VR/AR Video Processing, Computer vision, Computer Graphics)
+    -   VR/AR Video Processing, Computer vision, Computer Graphics
 
 # Tech Stack
 
