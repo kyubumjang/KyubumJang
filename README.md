@@ -102,7 +102,7 @@
   <a href="https://www.notion.so/lawrencejang/KYUBUM-JANG-681280b273b04d4ca9f6bcd6d81e335d" target="_blank">
     <img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=Notion&logoColor=white&link=https://kyubumjang.github.io/"/>
   </a>&nbsp 
-  <a href="www.linkedin.com/in/kyubumjang" target="_blank">
+  <a href="https://www.linkedin.com/in/kyubumjang" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://kyubumjang.github.io/"/>
   </a>&nbsp 
   <a href="https://www.notion.so/lawrencejang/2bc378e1e50f43349f0c968e9ba65768" target="_blank">
