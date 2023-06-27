@@ -55,9 +55,10 @@
     height="160"
   />
 </a>
+
 <a href="https://github.com/kyubumJang">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=kyubumJang&exclude_repo=2016104158,2015100592,2019103219,ARMYCODING,hub,android_makingApp,SMP-Forecasting,Python_Study,Algorithm_Study,fc-js-project&hide=CMake,ejs,css, shell,tex&hide_title=true&layout=compact&langs_count=8&hide_border=true&theme=onedark&title_color=5f4b8b&text_color=f0eee9&icon_color=00abc0"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=kyubumJang&exclude_repo=2016104158,2015100592,2019103219,ARMYCODING,hub,android_makingApp,SMP-Forecasting,Python_Study,Algorithm_Study,fc-js-project&hide=CMake,ejs,css,shell,tex&hide_title=true&layout=compact&langs_count=8&hide_border=true&theme=onedark&title_color=5f4b8b&text_color=f0eee9&icon_color=00abc0"
     alt="Top Languages Card"
     height="160"
   />
