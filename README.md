@@ -123,7 +123,7 @@
   <img
     src="https://github-readme-stats.vercel.app/api/wakatime?username=KyubumJang"
     alt="Github WakaTime Stats"
-    height="140"
+    height="260"
   />
 </a>
 
