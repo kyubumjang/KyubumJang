@@ -2,11 +2,18 @@
 
 ## About Me 👋
 
-안녕하세요, 프론트엔드 개발자 장규범입니다. 주로 React, TypeScript, Emotion, Vanilla-Extract, Recoil, React Query를 사용하여 개발을 하고 있습니다. 주도적이며 꾸준한 성장을 추구하는 개발자로 성장하고자 노력하고 있습니다.
+안녕하세요, 프론트엔드 개발자 장규범입니다. 주로 React, TypeScript, Recoil, react-query, Emotion, vanilla-extract를 사용하여 개발을 하고 있습니다. 주도적이며 꾸준한 성장을 추구하는 개발자로 성장하고자 노력하고 있습니다.
 
 저는 스타트업에서 처음으로 개발자의 길을 걷기 시작하였으며, 능동적이고 적극적인 커뮤니케이션 덕분에 문제 해결 능력 향상과 프로젝트 발전에 기여하였습니다. 개발 프로세스와 문화에 대한 흥미로운 관심을 가지고 있어 팀 내 문제점을 개선하고 프로젝트 환경을 더욱 개선하기 위해 지속적으로 고민합니다. 다양한 경험과 피드백을 수용하며 끊임없이 발전하는 태도를 통해 프론트엔드 개발에 대한 전문성을 키워왔습니다.
 
 저는 개발자로서 전문성, 효과적인 의사소통 능력, 그리고 끊임없는 성장이 중요한 가치라고 믿습니다. 프론트엔드 기술에 대한 지속적인 탐구와 기록을 통해 매일 조금씩 성장하고 발전하고자 노력하고 있습니다. 나무처럼 꾸준하게 가지를 뻗어나가며 잎과 열매가 맺어 결실을 얻을 수 있는 사람이 되고 싶습니다.
+
+Hello, I'm front-end developer Lawrence Jang. I mainly develop using React, TypeScript, Recoil, react-query, Emotion, and vanilla-extract. I am trying to grow into a developer who pursues leading and stable growth.
+
+I started my career as a developer for the first time at a startup and contributed to improving my problem-solving skills and developing projects thanks to active and active communication. I have an exciting interest in the development process and culture, and I am constantly thinking about improving problems within the team and improving the project environment. I have developed expertise in front-end development through a continuous attitude by accepting various experiences and feedback.
+
+I believe that professionalism as a developer, effective communication skills, and constant growth are essential values. I am trying to grow and develop little by little every day through continuous exploration and recording of front-end technology. I want to live like a tree.
+
 
 ## Skill
 
