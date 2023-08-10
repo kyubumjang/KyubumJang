@@ -8,6 +8,8 @@
 
 저는 개발자로서 전문성, 효과적인 의사소통 능력, 그리고 끊임없는 성장이 중요한 가치라고 믿습니다. 프론트엔드 기술에 대한 지속적인 탐구와 기록을 통해 매일 조금씩 성장하고 발전하고자 노력하고 있습니다. 나무처럼 꾸준하게 가지를 뻗어나가며 잎과 열매가 맺어 결실을 얻을 수 있는 사람이 되고 싶습니다.
 
+<hr/>
+
 Hello, I'm front-end developer Lawrence Jang. I mainly develop using React, TypeScript, Recoil, react-query, Emotion, and vanilla-extract. I am trying to grow into a developer who pursues leading and stable growth.
 
 I started my career as a developer for the first time at a startup and contributed to improving my problem-solving skills and developing projects thanks to active and active communication. I have an exciting interest in the development process and culture, and I am constantly thinking about improving problems within the team and improving the project environment. I have developed expertise in front-end development through a continuous attitude by accepting various experiences and feedback.
