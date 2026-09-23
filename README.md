@@ -7,10 +7,10 @@
 
 <br/>
 
-<a href="https://www.notion.so/lawrencejang/KYUBUM-JANG-681280b273b04d4ca9f6bcd6d81e335d"><img src="https://img.shields.io/badge/Resume-1C2640?style=flat-square&logo=notion&logoColor=00ABC0" alt="Resume"/></a>
-<a href="https://www.linkedin.com/in/kyubumjang"><img src="https://img.shields.io/badge/LinkedIn-1C2640?style=flat-square&logo=linkedin&logoColor=00ABC0" alt="LinkedIn"/></a>
-<a href="https://kyubumjang.github.io/"><img src="https://img.shields.io/badge/Blog-1C2640?style=flat-square&logo=githubpages&logoColor=00ABC0" alt="Tech Blog"/></a>
-<a href="https://www.notion.so/lawrencejang/2bc378e1e50f43349f0c968e9ba65768"><img src="https://img.shields.io/badge/About-1C2640?style=flat-square&logo=notion&logoColor=00ABC0" alt="About Me"/></a>
+<a href="https://www.notion.so/lawrencejang/KYUBUM-JANG-681280b273b04d4ca9f6bcd6d81e335d"><img src="https://img.shields.io/badge/Resume-0F172A?style=flat-square" alt="Resume"/></a>
+<a href="https://www.linkedin.com/in/kyubumjang"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=flat-square" alt="LinkedIn"/></a>
+<a href="https://kyubumjang.github.io/"><img src="https://img.shields.io/badge/Blog-0F172A?style=flat-square" alt="Tech Blog"/></a>
+<a href="https://www.notion.so/lawrencejang/2bc378e1e50f43349f0c968e9ba65768"><img src="https://img.shields.io/badge/About-0F172A?style=flat-square" alt="About Me"/></a>
 
 </div>
 
@@ -51,7 +51,7 @@ I care more about getting a team to judge quality by the same standard than abou
 
 ## Toolbox
 
-| | |
+| 분류 | 스택과 쓰임 |
 | :-- | :-- |
 | **테스트 자동화** | Playwright, Python — 회귀 스위트와 서비스 자동점검 스크립트 |
 | **AI** | Claude — TC 생성·정제, 중복/커버리지 갭 분석, 품질 게이트 설계 |
