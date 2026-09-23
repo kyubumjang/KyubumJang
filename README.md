@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg"/>
-  <img src="assets/banner-light.svg" alt="Kyubum Jang — QA Engineer · Frontend Developer by origin" width="100%"/>
+  <img src="assets/banner-light.svg" alt="Kyubum Jang — QA Engineer" width="100%"/>
 </picture>
 
 <br/>
