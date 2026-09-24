@@ -76,11 +76,20 @@ def tree(P):
     o.append('  </g>')
 
     # spread the pick across the whole crown, not just the topmost twigs,
-    # otherwise the dots line up along the skyline and read as bulbs
-    crown = sorted(tips, key=lambda t: t[1])[:26]
-    crown.sort(key=lambda t: t[0])
-    picks = [crown[int(i*(len(crown)-1)/5.0)] for i in range(6)]
+    # otherwise the dots line up along the skyline and read as bulbs.
+    # greedy min-distance over a shuffled pool: no clumping, but not evenly
+    # spaced either -- even spacing is what makes them read as a string of lights
     rf = random.Random(9)
+    pool = sorted(tips, key=lambda t: t[1])[:46]
+    rf.shuffle(pool)
+    picks, MIN = [], 15.0
+    for tx, ty in pool:
+        if all((tx - px) ** 2 + (ty - py) ** 2 >= MIN * MIN for px, py in picks):
+            picks.append((tx, ty))
+        if len(picks) == 11:
+            break
+    picks.sort(key=lambda t: t[1])          # draw far/high fruit first
+
     for tx, ty in picks:
         fx = tx + rf.uniform(-1.6, 1.6)
         fy = ty + rf.uniform(4.2, 7.0)          # fruit hangs below the twig it grew on
